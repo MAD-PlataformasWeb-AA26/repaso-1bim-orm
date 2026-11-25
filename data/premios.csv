@@ -1,0 +1,181 @@
+id,nombre_premio,categoria,anio,serie
+1,Streaming Talent Awards,Mejor producción,2024,Verdad Azul
+2,Golden Screen Awards,Mejor guion,2019,Red Rota
+3,Streaming Talent Awards,Mejor guion,2025,Frontera Salvaje
+4,Premios Horizonte,Mejor guion,2017,Red Urbana
+5,International Series Awards,Mejor elenco,2019,Ruta Invisible
+6,Global Fiction Prize,Mejor producción,2024,Red Perdida
+7,International Series Awards,Mejor elenco,2012,Verdad Final
+8,Continental TV Awards,Mejor serie internacional,2024,Verdad Salvaje 8
+9,Continental TV Awards,Mejor serie documental,2019,Estación Azul
+10,Global Fiction Prize,Mejor elenco,2019,Casa Salvaje
+11,Critics Choice Global,Mejor guion,2026,Verdad Infinita
+12,International Series Awards,Mejor serie de comedia,2020,Estación Perdida
+13,Continental TV Awards,Mejor serie internacional,2022,Promesa Silenciosa
+14,Festival Mundo Series,Mejor elenco,2024,Red Urbana
+15,Global Fiction Prize,Mejor serie documental,2026,Herencia Eterna
+16,Festival Mundo Series,Mejor elenco,2015,Ciudad Silenciosa
+17,Global Fiction Prize,Mejor elenco,2023,Ciudad Dorada
+18,Audience Choice Awards,Mejor dirección,2019,Ciudad Silenciosa
+19,Streaming Talent Awards,Mejor producción,2023,Red Salvaje
+20,Golden Screen Awards,Mejor serie internacional,2021,Frontera Eterna
+21,Festival Mundo Series,Mejor producción,2020,Ruta Final
+22,International Series Awards,Mejor dirección,2025,Promesa Rota 12
+23,Streaming Talent Awards,Mejor serie internacional,2023,Memoria Rota 2
+24,Global Fiction Prize,Mejor serie de comedia,2023,Casa Secreta
+25,Premios Horizonte,Mejor elenco,2022,Frontera Lejana
+26,Continental TV Awards,Mejor serie internacional,2025,Estación Final
+27,Continental TV Awards,Mejor guion,2013,Promesa Azul
+28,Continental TV Awards,Mejor elenco,2017,Sombra Silenciosa 1
+29,Global Fiction Prize,Mejor serie dramática,2025,Memoria Rota 2
+30,Premios Horizonte,Mejor serie dramática,2016,Red Azul
+31,Streaming Talent Awards,Mejor serie dramática,2012,Verdad Lejana
+32,Premios Horizonte,Mejor producción,2024,Casa Salvaje
+33,Continental TV Awards,Mejor elenco,2026,Verdad Perdida
+34,Golden Screen Awards,Mejor dirección,2019,Ruta Infinita
+35,Global Fiction Prize,Mejor serie documental,2026,Verdad Perdida
+36,Global Fiction Prize,Mejor serie internacional,2025,Red Azul
+37,Festival Mundo Series,Mejor serie de comedia,2015,Memoria Infinita 5
+38,Drama Excellence Prize,Mejor serie dramática,2010,Red Final
+39,Premios Horizonte,Mejor dirección,2016,Estación Rota
+40,Festival Mundo Series,Mejor elenco,2023,Frontera Salvaje
+41,Golden Screen Awards,Mejor serie documental,2019,Familia Dorada
+42,Critics Choice Global,Mejor serie dramática,2024,Estación Salvaje 13
+43,Global Fiction Prize,Mejor producción,2018,Sombra Urbana
+44,Drama Excellence Prize,Mejor elenco,2019,Herencia Salvaje
+45,Streaming Talent Awards,Mejor producción,2020,Estación Azul
+46,Festival Mundo Series,Mejor elenco,2026,Promesa Oscura
+47,Golden Screen Awards,Mejor serie internacional,2020,Estación Perdida
+48,Global Fiction Prize,Mejor producción,2026,Verdad Salvaje 8
+49,International Series Awards,Mejor serie documental,2026,Nación Eterna
+50,Festival Mundo Series,Mejor serie internacional,2018,Sombra Silenciosa 1
+51,Festival Mundo Series,Mejor producción,2018,Ciudad Lejana
+52,Continental TV Awards,Mejor dirección,2017,Frontera Lejana
+53,Global Fiction Prize,Mejor elenco,2012,Ciudad Perdida
+54,Critics Choice Global,Mejor serie dramática,2020,Estación Perdida
+55,Festival Mundo Series,Mejor producción,2026,Herencia Eterna
+56,Drama Excellence Prize,Mejor elenco,2025,Estación Salvaje 13
+57,Global Fiction Prize,Mejor dirección,2018,Estación Final
+58,Continental TV Awards,Mejor serie documental,2017,Familia Rota
+59,Audience Choice Awards,Mejor producción,2026,Estación Salvaje 13
+60,Continental TV Awards,Mejor guion,2021,Memoria Invisible
+61,Streaming Talent Awards,Mejor guion,2023,Nación Secreta
+62,Continental TV Awards,Mejor guion,2022,Estación Final
+63,International Series Awards,Mejor dirección,2020,Familia Oscura
+64,Festival Mundo Series,Mejor elenco,2018,Nación Secreta
+65,Audience Choice Awards,Mejor producción,2022,Promesa Silenciosa
+66,Streaming Talent Awards,Mejor serie de comedia,2022,Estación Perdida
+67,Global Fiction Prize,Mejor serie de comedia,2021,Herencia Oscura
+68,Continental TV Awards,Mejor serie de comedia,2022,Herencia Oscura
+69,Continental TV Awards,Mejor producción,2022,Frontera Perdida
+70,Critics Choice Global,Mejor guion,2018,Verdad Perdida
+71,Drama Excellence Prize,Mejor serie documental,2025,Red Perdida
+72,Critics Choice Global,Mejor serie de comedia,2019,Ciudad Dorada
+73,Critics Choice Global,Mejor serie internacional,2020,Familia Silenciosa 7
+74,Golden Screen Awards,Mejor serie documental,2018,Ruta Infinita
+75,Critics Choice Global,Mejor guion,2021,Frontera Eterna 4
+76,Critics Choice Global,Mejor elenco,2016,Familia Silenciosa 7
+77,Drama Excellence Prize,Mejor elenco,2024,Ruta Infinita
+78,Golden Screen Awards,Mejor serie dramática,2021,Ciudad Invisible
+79,Audience Choice Awards,Mejor serie dramática,2021,Frontera Secreta
+80,Continental TV Awards,Mejor dirección,2020,Frontera Eterna
+81,Premios Horizonte,Mejor dirección,2022,Herencia Final
+82,Festival Mundo Series,Mejor guion,2022,Ruta Perdida
+83,Continental TV Awards,Mejor producción,2019,Estación Rota
+84,Golden Screen Awards,Mejor producción,2013,Red Urbana
+85,Continental TV Awards,Mejor serie internacional,2026,Nación Secreta
+86,Critics Choice Global,Mejor serie internacional,2026,Verdad Lejana
+87,Audience Choice Awards,Mejor dirección,2019,Ciudad Perdida
+88,Golden Screen Awards,Mejor dirección,2023,Red Urbana
+89,Premios Horizonte,Mejor serie dramática,2014,Sombra Urbana
+90,Critics Choice Global,Mejor serie de comedia,2020,Estación Invisible
+91,Drama Excellence Prize,Mejor producción,2011,Mirada Oscura
+92,Global Fiction Prize,Mejor serie dramática,2011,Mirada Dorada 11
+93,Golden Screen Awards,Mejor serie dramática,2013,Estación Perdida
+94,Drama Excellence Prize,Mejor serie documental,2020,Ruta Perdida
+95,Continental TV Awards,Mejor producción,2013,Herencia Rota
+96,Critics Choice Global,Mejor dirección,2026,Herencia Oscura
+97,Golden Screen Awards,Mejor producción,2025,Ruta Perdida
+98,International Series Awards,Mejor producción,2022,Promesa Urbana 6
+99,Drama Excellence Prize,Mejor serie de comedia,2024,Mirada Urbana
+100,Festival Mundo Series,Mejor serie de comedia,2020,Familia Dorada
+101,Streaming Talent Awards,Mejor dirección,2020,Promesa Silenciosa
+102,Festival Mundo Series,Mejor dirección,2017,Memoria Salvaje
+103,Drama Excellence Prize,Mejor producción,2026,Nación Secreta
+104,Continental TV Awards,Mejor serie documental,2011,Estación Rota
+105,Streaming Talent Awards,Mejor serie internacional,2024,Estación Salvaje 13
+106,Golden Screen Awards,Mejor serie de comedia,2010,Red Final
+107,Global Fiction Prize,Mejor serie documental,2024,Estación Salvaje 13
+108,Continental TV Awards,Mejor serie de comedia,2012,Promesa Azul
+109,International Series Awards,Mejor producción,2026,Mirada Invisible
+110,Streaming Talent Awards,Mejor producción,2017,Herencia Salvaje
+111,Golden Screen Awards,Mejor serie de comedia,2025,Estación Infinita
+112,Golden Screen Awards,Mejor producción,2016,Ruta Final
+113,Drama Excellence Prize,Mejor serie de comedia,2020,Mirada Oscura
+114,Golden Screen Awards,Mejor guion,2026,Memoria Urbana
+115,Audience Choice Awards,Mejor serie internacional,2015,Estación Perdida
+116,Global Fiction Prize,Mejor producción,2024,Frontera Eterna
+117,Audience Choice Awards,Mejor serie internacional,2019,Red Urbana
+118,Drama Excellence Prize,Mejor elenco,2023,Red Secreta
+119,Drama Excellence Prize,Mejor serie documental,2018,Casa Oscura
+120,Critics Choice Global,Mejor serie de comedia,2022,Familia Eterna
+121,Critics Choice Global,Mejor serie de comedia,2025,Familia Infinita
+122,Global Fiction Prize,Mejor serie documental,2026,Promesa Urbana 6
+123,Streaming Talent Awards,Mejor guion,2025,Familia Eterna
+124,Audience Choice Awards,Mejor serie dramática,2023,Herencia Oscura
+125,Streaming Talent Awards,Mejor serie documental,2014,Ciudad Lejana
+126,Streaming Talent Awards,Mejor serie dramática,2026,Verdad Infinita
+127,Audience Choice Awards,Mejor serie dramática,2017,Sombra Silenciosa 1
+128,Audience Choice Awards,Mejor serie de comedia,2024,Casa Final
+129,Premios Horizonte,Mejor serie documental,2022,Verdad Lejana
+130,Critics Choice Global,Mejor serie dramática,2022,Memoria Infinita 5
+131,Critics Choice Global,Mejor serie documental,2026,Ciudad Dorada
+132,Critics Choice Global,Mejor serie de comedia,2022,Estación Azul
+133,Audience Choice Awards,Mejor dirección,2026,Mirada Salvaje
+134,Golden Screen Awards,Mejor dirección,2023,Casa Perdida
+135,Drama Excellence Prize,Mejor dirección,2022,Memoria Invisible
+136,Streaming Talent Awards,Mejor serie documental,2020,Red Rota
+137,Streaming Talent Awards,Mejor serie internacional,2024,Ruta Perdida
+138,Golden Screen Awards,Mejor serie de comedia,2020,Frontera Salvaje
+139,Golden Screen Awards,Mejor serie dramática,2024,Verdad Rota
+140,Global Fiction Prize,Mejor producción,2014,Promesa Azul
+141,Continental TV Awards,Mejor dirección,2022,Estación Azul
+142,Audience Choice Awards,Mejor serie internacional,2026,Herencia Eterna
+143,Premios Horizonte,Mejor serie documental,2013,Promesa Azul
+144,Audience Choice Awards,Mejor serie documental,2026,Casa Perdida
+145,Premios Horizonte,Mejor serie dramática,2025,Verdad Infinita
+146,Festival Mundo Series,Mejor serie internacional,2021,Familia Rota
+147,Golden Screen Awards,Mejor guion,2017,Casa Urbana 10
+148,Drama Excellence Prize,Mejor serie de comedia,2019,Herencia Invisible
+149,Premios Horizonte,Mejor serie de comedia,2016,Herencia Oscura
+150,Premios Horizonte,Mejor serie documental,2022,Casa Lejana
+151,Premios Horizonte,Mejor serie internacional,2025,Promesa Azul
+152,Drama Excellence Prize,Mejor serie dramática,2025,Estación Rota
+153,Streaming Talent Awards,Mejor serie documental,2014,Nación Invisible
+154,Critics Choice Global,Mejor serie documental,2026,Estación Perdida
+155,Continental TV Awards,Mejor elenco,2012,Casa Perdida
+156,Continental TV Awards,Mejor guion,2025,Promesa Rota 12
+157,Critics Choice Global,Mejor guion,2024,Ruta Perdida
+158,Global Fiction Prize,Mejor serie internacional,2019,Estación Rota
+159,Drama Excellence Prize,Mejor dirección,2022,Herencia Rota
+160,Audience Choice Awards,Mejor producción,2023,Frontera Eterna 4
+161,Critics Choice Global,Mejor elenco,2014,Red Dorada
+162,Continental TV Awards,Mejor serie internacional,2020,Memoria Salvaje
+163,Premios Horizonte,Mejor dirección,2017,Herencia Salvaje
+164,Audience Choice Awards,Mejor guion,2025,Mirada Urbana
+165,Continental TV Awards,Mejor serie internacional,2024,Casa Final
+166,Audience Choice Awards,Mejor serie documental,2023,Casa Final
+167,Drama Excellence Prize,Mejor producción,2024,Estación Perdida
+168,Golden Screen Awards,Mejor serie de comedia,2024,Red Urbana
+169,Critics Choice Global,Mejor serie dramática,2022,Promesa Final
+170,Premios Horizonte,Mejor producción,2017,Sombra Urbana
+171,Festival Mundo Series,Mejor producción,2024,Mirada Salvaje
+172,Festival Mundo Series,Mejor dirección,2014,Ciudad Dorada
+173,Audience Choice Awards,Mejor serie documental,2023,Mirada Salvaje
+174,Continental TV Awards,Mejor dirección,2022,Estación Rota
+175,Premios Horizonte,Mejor producción,2026,Promesa Rota
+176,Golden Screen Awards,Mejor elenco,2025,Ruta Perdida
+177,Audience Choice Awards,Mejor serie dramática,2025,Sombra Eterna
+178,Premios Horizonte,Mejor serie documental,2020,Ciudad Dorada
+179,Audience Choice Awards,Mejor dirección,2018,Ciudad Lejana
+180,Premios Horizonte,Mejor producción,2024,Nación Salvaje

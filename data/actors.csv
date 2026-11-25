@@ -1,0 +1,102 @@
+id,nombre,edad,rol,pais,serie
+400,Jack López,55,Invitado especial,India,Frontera Eterna
+401,Ethan Smith,33,Recurrente,Francia,Memoria Infinita 5
+402,Seo-yeon Cooper,56,Recurrente,Egipto,Herencia Salvaje
+403,Chinedu Park,31,Secundario,Estados Unidos,Nación Salvaje
+404,Amina Silva,68,Secundario,Reino Unido,Promesa Rota
+405,Mariana Mansour,58,Principal,Estados Unidos,Herencia Invisible
+406,Olivia Lee,26,Invitado especial,Estados Unidos,Sombra Final
+407,Olivia Dubois,61,Secundario,Alemania,Ciudad Lejana
+408,Grace Pereira,19,Principal,Estados Unidos,Estación Secreta
+409,Sofía Silva,68,Invitado especial,España,Ciudad Dorada
+410,Omar Müller,67,Invitado especial,Corea del Sur,Herencia Rota
+411,Kwame Dubois,52,Secundario,México,Estación Secreta
+412,Daniel Müller,31,Secundario,Estados Unidos,Frontera Eterna 4
+413,Priya Pereira,37,Invitado especial,Alemania,Frontera Secreta
+414,Valentina Davis,23,Invitado especial,Reino Unido,Herencia Invisible
+415,Aarav Silva,37,Secundario,Japón,Verdad Infinita
+416,Andrés García,28,Invitado especial,Australia,Frontera Salvaje
+417,Ethan Tanaka,28,Recurrente,México,Memoria Infinita 5
+418,Elena López,67,Principal,Australia,Familia Infinita
+419,Min-jun Pereira,34,Principal,España,Casa Perdida
+420,Olivia Silva,49,Secundario,Estados Unidos,Herencia Invisible
+421,Grace Martínez,54,Principal,Estados Unidos,Verdad Perdida
+422,Sofía García,33,Principal,Estados Unidos,Herencia Perdida
+423,Isabella Williams,72,Principal,Japón,Herencia Oscura
+424,Fatima Okafor,32,Recurrente,Sudáfrica,Memoria Invisible
+425,Layla Lee,35,Principal,Nueva Zelanda,Verdad Lejana
+426,Aiko Silva,29,Secundario,Corea del Sur,Verdad Azul
+427,Sofía Khan,22,Invitado especial,España,Familia Eterna
+428,Natalia Lee,23,Invitado especial,Corea del Sur,Ciudad Lejana
+429,Carlos Walker,68,Recurrente,España,Ciudad Dorada
+430,Olivia Evans,49,Secundario,Corea del Sur,Estación Final
+431,Ethan Davis,27,Principal,Egipto,Herencia Invisible
+432,Alejandro Dubois,40,Principal,Corea del Sur,Casa Lejana
+433,Chinedu Singh,72,Recurrente,Francia,Casa Perdida
+434,Mariana Okafor,49,Principal,Egipto,Estación Rota
+435,Sofía Miller,72,Invitado especial,México,Ciudad Dorada
+436,Fatima Santos,55,Principal,Corea del Sur,Casa Urbana 10
+437,Hugo Khan,22,Principal,Corea del Sur,Herencia Rota
+438,Mariana Kim,34,Recurrente,Brasil,Verdad Lejana
+439,Clara Lee,38,Invitado especial,Sudáfrica,Nación Invisible
+440,Tomás Smith,67,Principal,México,Casa Secreta
+441,Oliver Mokoena,38,Invitado especial,México,Promesa Azul
+442,Grace Wilson,46,Recurrente,Australia,Frontera Salvaje
+443,Gabriela Santos,28,Recurrente,Nigeria,Red Final
+444,Sofía Wilson,71,Recurrente,India,Promesa Azul
+445,Mariana Sharma,43,Principal,Nigeria,Ciudad Dorada
+446,Hugo Williams,19,Invitado especial,Corea del Sur,Frontera Salvaje
+447,Fatima Moreau,33,Principal,Francia,Estación Azul
+448,Ethan Smith,25,Principal,Nigeria,Red Final
+449,Andrés Taylor,70,Invitado especial,Reino Unido,Promesa Rota
+450,Daniel Evans,55,Recurrente,Nigeria,Verdad Perdida
+451,Camila Taylor,59,Invitado especial,Estados Unidos,Casa Salvaje
+452,Clara Choi,25,Principal,Sudáfrica,Promesa Rota
+453,Raj Adeyemi,70,Invitado especial,Nigeria,Red Final
+454,Thandi Adeyemi,29,Recurrente,Estados Unidos,Herencia Invisible
+455,Elena Ndlovu,27,Principal,España,Promesa Oscura
+456,Amina Kim,49,Invitado especial,Reino Unido,Herencia Oscura
+457,Daniel Sato,42,Secundario,Estados Unidos,Red Urbana
+458,Maya Schneider,33,Principal,Australia,Promesa Urbana 6
+459,Haruto Dubois,68,Invitado especial,Francia,Herencia Rota
+460,William Singh,35,Secundario,Japón,Memoria Infinita 5
+461,Alejandro Rodríguez,69,Recurrente,Sudáfrica,Promesa Final
+462,Min-jun Sharma,67,Secundario,Corea del Sur,Promesa Rota
+463,Chinedu Davis,35,Principal,Reino Unido,Estación Rota
+464,Raj Singh,40,Secundario,Reino Unido,Estación Secreta
+465,William Sharma,55,Principal,Sudáfrica,Red Azul
+466,Raj Johnson,54,Secundario,India,Casa Final
+467,Yuki Dubois,37,Secundario,Nueva Zelanda,Promesa Rota 12
+468,Valentina Miller,56,Secundario,India,Familia Silenciosa 7
+469,Lucas Choi,57,Secundario,Nueva Zelanda,Herencia Final
+470,Omar Williams,69,Recurrente,Sudáfrica,Promesa Rota
+471,Priya Johnson,67,Principal,Nigeria,Promesa Rota
+472,Olivia Pereira,41,Invitado especial,Estados Unidos,Memoria Invisible
+473,Natalia Lee,26,Secundario,Japón,Estación Invisible
+474,Kwame Mansour,59,Recurrente,Egipto,Herencia Invisible
+475,Sipho Thompson,68,Recurrente,Japón,Red Azul
+476,Lucía Singh,37,Recurrente,Australia,Sombra Urbana
+477,Lucas Walker,43,Principal,Australia,Familia Infinita
+478,Maya Thompson,32,Principal,Nueva Zelanda,Red Secreta
+479,Emily Pereira,33,Recurrente,Corea del Sur,Casa Lejana
+480,Daniel Choi,46,Principal,Nueva Zelanda,Verdad Final
+481,Sipho Pereira,40,Recurrente,Egipto,Estación Infinita
+482,Lucas Silva,42,Invitado especial,Alemania,Promesa Silenciosa
+483,Diego Okafor,49,Invitado especial,Estados Unidos,Herencia Invisible
+484,Martín Hassan,68,Secundario,México,Memoria Infinita 5
+485,Maya Fernández,36,Principal,Reino Unido,Estación Rota
+486,Martín Pereira,39,Secundario,Nueva Zelanda,Verdad Final
+487,Layla Pereira,53,Principal,Alemania,Estación Azul
+488,Haruto Rodríguez,45,Secundario,India,Familia Rota
+489,Valentina Martínez,39,Secundario,Brasil,Memoria Salvaje
+490,Seo-yeon Dubois,34,Recurrente,Estados Unidos,Frontera Lejana
+491,Valentina Khan,54,Invitado especial,Estados Unidos,Nación Eterna
+492,Lucas Adeyemi,23,Recurrente,México,Promesa Azul
+493,Haruto Taylor,24,Principal,India,Promesa Azul
+494,Carlos Santos,48,Principal,Reino Unido,Ciudad Final 3
+495,Yuki Tanaka,23,Invitado especial,Corea del Sur,Ruta Infinita
+496,Noah Patel,29,Invitado especial,Nigeria,Red Secreta
+497,Charlotte Tanaka,32,Recurrente,Francia,Ruta Invisible
+498,Jack Martínez,23,Recurrente,México,Estación Perdida
+499,Jack Evans,32,Principal,Sudáfrica,Promesa Rota
+500,Min-jun Okafor,52,Invitado especial,Francia,Promesa Rota 12

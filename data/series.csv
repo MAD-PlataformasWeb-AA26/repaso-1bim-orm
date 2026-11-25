@@ -1,0 +1,121 @@
+id,titulo,genero,anio_estreno,temporadas,plataforma,pais
+1,Casa Perdida,Histórica,2011,7,Lumiere Play,Francia
+2,Ciudad Dorada,Drama,2016,3,IberiaTV,España
+3,Herencia Final,Acción,2022,2,Kiwi Stories,Nueva Zelanda
+4,Promesa Final,Documental,2006,4,CapeView,Sudáfrica
+5,Ciudad Silenciosa,Histórica,2013,3,Horizon Plus,Australia
+6,Ruta Invisible,Comedia,2013,4,Lumiere Play,Francia
+7,Red Salvaje,Crimen,2012,1,Asia Drama Plus,Corea del Sur
+8,Promesa Rota,Drama,2012,4,Sakura Plus,Nigeria
+9,Sombra Silenciosa 1,Acción,2013,1,K-Drama World,Egipto
+10,Estación Silenciosa,Documental,2025,3,Nollywood Play,Nigeria
+11,Red Rota,Crimen,2013,4,BritBox Global,Reino Unido
+12,Ruta Perdida1,Drama,2021,3,Europa Cine,Francia
+13,Memoria Urbana,Comedia,2026,2,IberiaTV,España
+14,Estación Rota,Drama,2013,8,Nile Screen,Egipto
+15,Verdad Infinita,Documental,2025,2,IberiaTV,Japón
+16,Frontera Salvaje,Suspenso,2013,8,Aussie Vision,Australia
+17,Familia Infinita,Ciencia ficción,2025,3,Brasil Play,Australia
+18,Memoria Rota 2,Acción,2021,6,BritBox Global,Reino Unido
+19,Ciudad Dorada1,Ciencia ficción,2014,2,Nollywood Play,Nigeria
+20,Promesa Azul,Romance,2007,8,Europa Cine,México
+21,Estación Rota1,Acción,2010,2,BritBox Global,Reino Unido
+22,Red Urbana,Crimen,2011,4,Aussie Vision,Nueva Zelanda
+23,Red Azul,Comedia,2008,2,CapeView,Sudáfrica
+24,Red Secreta,Comedia,2023,2,Nollywood Play,Nigeria
+25,Frontera Lejana,Ciencia ficción,2015,1,CineMax Play,Estados Unidos
+26,Red Perdida,Ciencia ficción,2023,3,Sakura Plus,Reino Unido
+27,Ciudad Final 3,Crimen,2026,2,Latam Series,Reino Unido
+28,Promesa Oscura,Comedia,2026,4,Aussie Vision,Australia
+29,Sombra Urbana,Ciencia ficción,2008,2,CineMax Play,Estados Unidos
+30,Herencia Perdida,Comedia,2013,3,Global Series Hub,Estados Unidos
+31,Red Final,Romance,2006,4,Kiwi Stories,Australia
+32,Verdad Lejana,Fantasía,2012,1,StreamFlix,Nueva Zelanda
+33,Herencia Oscura,Crimen,2010,2,Latam Series,México
+34,Estación Infinita,Romance,2018,4,Sakura Plus,Egipto
+35,Casa Secreta,Romance,2006,3,Latam Series,México
+36,Frontera Eterna 4,Romance,2020,3,CineMax Play,Estados Unidos
+37,Red Final2,Comedia,2010,1,Lumiere Play,Francia
+38,Nación Secreta,Acción,2023,3,K-Drama World,Corea del Sur
+39,Nación Eterna,Documental,2021,2,Horizon Plus,Estados Unidos
+40,Ruta Infinita1,Documental,2017,1,Berlin Stream,Francia
+41,Verdad Final,Acción,2005,3,Kiwi Stories,Nueva Zelanda
+42,Ruta Rota,Histórica,2013,1,IberiaTV,España
+43,Casa Perdida1,Documental,2019,5,Horizon Plus,Francia
+44,Familia Rota,Romance,2005,4,Asia Drama Plus,Egipto
+45,Memoria Infinita 5,Romance,2008,6,Bollywood Now,México
+46,Nación Secreta1,Documental,2015,2,BritBox Global,Reino Unido
+47,Mirada Oscura,Documental,2007,3,Brasil Play,Brasil
+48,Verdad Perdida1,Suspenso,2025,8,CineMax Play,Estados Unidos
+49,Herencia Rota1,Suspenso,2005,1,Kiwi Stories,Nueva Zelanda
+50,Sombra Eterna,Suspenso,2022,1,Global Series Hub,Estados Unidos
+51,Verdad Lejana1,Ciencia ficción,2006,6,CineMax Play,Estados Unidos
+52,Verdad Rota,Suspenso,2018,8,K-Drama World,Francia
+53,Verdad Perdida,Histórica,2018,1,K-Drama World,Egipto
+54,Promesa Urbana 6,Comedia,2012,2,Aussie Vision,Australia
+55,Estación Secreta,Fantasía,2011,5,Nile Screen,Australia
+56,Verdad Lejana2,Ciencia ficción,2012,2,CapeView,Sudáfrica
+57,Mirada Final,Romance,2013,2,Nile Screen,Egipto
+58,Red Dorada,Documental,2005,1,Nile Screen,Australia
+59,Casa Oscura,Histórica,2008,3,Lumiere Play,Francia
+60,Red Final1,Ciencia ficción,2017,6,Nollywood Play,Nigeria
+61,Herencia Oscura1,Romance,2021,6,Sakura Plus,Japón
+62,Ciudad Invisible,Comedia,2015,3,Berlin Stream,Alemania
+63,Familia Silenciosa 7,Documental,2015,2,Bollywood Now,India
+64,Herencia Invisible,Suspenso,2017,4,Global Series Hub,Estados Unidos
+65,Herencia Rota,Ciencia ficción,2005,2,Asia Drama Plus,Corea del Sur
+66,Familia Dorada,Ciencia ficción,2019,3,Aussie Vision,India
+67,Verdad Salvaje,Documental,2010,4,Brasil Play,Brasil
+68,Sombra Final,Ciencia ficción,2012,4,Brasil Play,India
+69,Frontera Secreta,Comedia,2020,3,Berlin Stream,Alemania
+70,Familia Eterna,Crimen,2011,4,Kiwi Stories,Nueva Zelanda
+71,Memoria Invisible1,Comedia,2005,6,Latam Series,México
+72,Verdad Salvaje 8,Romance,2021,3,Aussie Vision,Australia
+73,Estación Perdida,Romance,2019,4,K-Drama World,México
+74,Verdad Azul,Romance,2024,5,Asia Drama Plus,Corea del Sur
+75,Estación Perdida1,Ciencia ficción,2020,3,Aussie Vision,Japón
+76,Estación Invisible,Comedia,2012,2,Sakura Plus,Japón
+77,Sombra Dorada,Suspenso,2022,1,Bollywood Now,India
+78,Memoria Salvaje,Crimen,2011,1,K-Drama World,Corea del Sur
+79,Herencia Oscura2,Crimen,2011,5,Nollywood Play,Nigeria
+80,Mirada Urbana,Drama,2023,2,Europa Cine,Estados Unidos
+81,Herencia Lejana 9,Romance,2018,3,CapeView,Sudáfrica
+82,Ruta Infinita,Crimen,2018,3,Asia Drama Plus,Corea del Sur
+83,Herencia Salvaje1,Suspenso,2010,5,Nollywood Play,Egipto
+84,Herencia Eterna,Comedia,2023,4,Asia Drama Plus,Corea del Sur
+85,Estación Perdida2,Histórica,2006,2,Aussie Vision,Australia
+86,Sombra Urbana1,Crimen,2017,2,Berlin Stream,Alemania
+87,Frontera Salvaje1,Histórica,2022,1,Sakura Plus,Corea del Sur
+88,Familia Oscura,Ciencia ficción,2005,7,K-Drama World,Egipto
+89,Ruta Perdida,Acción,2020,4,StreamFlix,Estados Unidos
+90,Casa Urbana 10,Acción,2016,1,Berlin Stream,Alemania
+91,Casa Final,Documental,2023,1,IberiaTV,Brasil
+92,Herencia Salvaje,Ciencia ficción,2011,1,Europa Cine,Alemania
+93,Mirada Invisible,Acción,2024,5,IberiaTV,España
+94,Herencia Invisible1,Histórica,2016,1,CineMax Play,Estados Unidos
+95,Estación Final,Fantasía,2018,7,StreamFlix,Australia
+96,Promesa Rota 3,Romance,2025,2,BritBox Global,Reino Unido
+97,Mirada Salvaje,Ciencia ficción,2023,2,Latam Series,México
+98,Estación Secreta1,Crimen,2019,3,Horizon Plus,Estados Unidos
+99,Mirada Dorada 11,Histórica,2010,3,Nollywood Play,Nigeria
+100,Nación Salvaje,Romance,2013,3,Sakura Plus,Japón
+101,Promesa Silenciosa,Ciencia ficción,2020,3,Berlin Stream,Alemania
+102,Estación Azul,Ciencia ficción,2005,1,Latam Series,México
+103,Familia Eterna1,Romance,2016,3,Nile Screen,España
+104,Promesa Rota1,Fantasía,2015,2,CapeView,Sudáfrica
+105,Ruta Final,Romance,2011,2,Sakura Plus,Japón
+106,Promesa Azul1,Romance,2013,4,Lumiere Play,Francia
+107,Ciudad Lejana,Histórica,2011,2,Asia Drama Plus,Corea del Sur
+108,Promesa Rota 12,Drama,2009,2,Lumiere Play,Francia
+109,Memoria Invisible,Drama,2020,1,Global Series Hub,Estados Unidos
+110,Estación Azul1,Drama,2015,1,Europa Cine,Francia
+111,Ciudad Lejana1,Comedia,2007,2,Sakura Plus,Corea del Sur
+112,Frontera Perdida,Documental,2009,5,Europa Cine,Francia
+113,Red Urbana1,Acción,2018,3,Horizon Plus,México
+114,Estación Azul2,Crimen,2014,5,K-Drama World,Alemania
+115,Frontera Eterna,Ciencia ficción,2008,7,Bollywood Now,India
+116,Ciudad Perdida,Comedia,2012,1,Berlin Stream,Alemania
+117,Estación Salvaje 13,Drama,2024,3,Lumiere Play,Francia
+118,Casa Salvaje,Ciencia ficción,2019,1,K-Drama World,Corea del Sur
+119,Nación Invisible,Romance,2011,2,Sakura Plus,Nigeria
+120,Casa Lejana,Suspenso,2009,1,K-Drama World,Corea del Sur
